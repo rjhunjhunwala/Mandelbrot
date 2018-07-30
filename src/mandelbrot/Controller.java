@@ -20,6 +20,8 @@ public class Controller implements MouseWheelListener {
 		double xCoord, yCoord;
 		double pctX = e.getX() / (double) GamePanel.X_SIZE;
 		double pctY = e.getY() / (double) GamePanel.Y_SIZE;
+		pctX = .5;
+		pctY = .5;
 
 		xCoord = GamePanel.UB_X * pctX + GamePanel.LB_X * (1 - pctX);
 		yCoord = GamePanel.UB_Y * pctY + GamePanel.LB_Y * (1 - pctY);
