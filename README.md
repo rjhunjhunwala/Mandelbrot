@@ -1,4 +1,4 @@
-#Mandelbrot Render
+# Mandelbrot Render
 
 The mandelbrot set, is a fractal that is defined over the field of complex numbers as follows.
 
