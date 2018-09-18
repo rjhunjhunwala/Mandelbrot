@@ -1,6 +1,6 @@
 # Mandelbrot Render
 
-The mandelbrot set is a fractal that is defined over the field of complex numbers as follows.
+The mandelbrot set is a fractal that is defined over the field of complex numbers as follows:
 
 A member, c, is a part of the set if and only if, the following sequence, let's call it the "Z sequence" (not a technical term) remains bounded for arbitrarily large numbers of n.
 
